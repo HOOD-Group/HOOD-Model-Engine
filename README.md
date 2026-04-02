@@ -1,4 +1,4 @@
-# HOOD-Model-Engine
+# HOOD Model Engine
 ## Deutsch
 Ein Repository zur Verwaltung von Issues für das Produkt HOOD Model Engine.
 Klicken Sie auf den Tab „Issues“, um ein Issue einzureichen.
