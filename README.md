@@ -1,4 +1,4 @@
-# HOOD Modeling Engine
+# HOOD Model Engine
 ## Deutsch
 Klicken Sie auf den Tab „Issues“, um ein Issue einzureichen.
 Stellen Sie sicher, dass Sie die Plugin-Version sowie die Version von Cameo Systems Modeler/MagicDraw angeben.
